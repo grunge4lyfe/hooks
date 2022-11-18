@@ -1,5 +1,5 @@
 {
-  "name": "@delightedcat/hooks",
+  "name": "@grunge4lyfe/hooks",
   "version": "1.0.0",
   "description": "An extremely simple Discord API proxy",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delightedcat/hooks.git"
+    "url": "git+https://github.com/grunge4lyfe/hooks.git"
   },
   "keywords": [
     "discord",
@@ -16,12 +16,12 @@
     "api",
     "proxy"
   ],
-  "author": "DelightedCat",
+  "author": "grunge4lyfe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/delightedcat/hooks/issues"
+    "url": "https://github.com/grunge4lyfe/hooks/issues"
   },
-  "homepage": "https://github.com/delightedcat/hooks#readme",
+  "homepage": "https://github.com/grunge4lyfe/hooks#readme",
   "dependencies": {
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
